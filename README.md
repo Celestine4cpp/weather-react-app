@@ -5,7 +5,7 @@ This project was bootstrapped with [create-react-app](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `yarn start`
-### or 'npm start'
+### or `npm start`
 But this should be after nodejs has been installed globally on your pc, and then install yarn.
 
 Runs the app in the development mode.<br />
